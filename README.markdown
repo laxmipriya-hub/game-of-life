@@ -2,6 +2,7 @@ This is a simple demonstration application used in the [Jenkins: The Definitive 
 ## new changes
 ## git commit
 #my change
+#new value
 #error rectified
 ###my new change
 ## Building the project#
